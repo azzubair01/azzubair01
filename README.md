@@ -16,10 +16,8 @@
 
 -----
 <p align="center">
-  · <a href="https://drive.google.com/file/d/1k9Z_Epxi5FNTr5-8TV4tXekAuiyIsuaL/view?usp=sharing">Resume</a> ·
-  <i>Whatever I do, I do with perfection, takes work ethics very seriously, and consistently innovating to improve people's lives</i>
-  <br>
-  <br>
+  · <a href="https://drive.google.com/file/d/1k9Z_Epxi5FNTr5-8TV4tXekAuiyIsuaL/view?usp=sharing">My Resume</a> · <br><br>
+  <i>Whatever I do, I do with perfection, takes work ethics very seriously, and consistently innovating to improve people's lives</i><br><br>
   <b>Take a look at my repositories and let's get in touch!</b>
 </p>
   
