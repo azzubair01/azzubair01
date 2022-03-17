@@ -8,10 +8,14 @@
     
 ## About Me 🚀
 🌱 I’m a Junior Data Scientist with a Masters Degree in Data Science & Analytics</br>
-👨‍💻 I am passionate with data & enjoy learning new things. </br><br>
+👨‍💻 I am passionate with data & enjoy learning new things. 
+
+</br>
 
 ## My Experiences 🙌
 - [Solution Consultant (Data Science)](https://www.youtube.com/watch?v=GiHC_760Cis&ab_channel=MalaysiaDigitalEconomyCorporation) - (Jul'20-Present)
+
+</br>
 
 ## My Current Tools 🤖
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
