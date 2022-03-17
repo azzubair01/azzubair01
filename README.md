@@ -27,7 +27,9 @@
 -----
 
 [![Azzubair's GitHub stats](https://github-readme-stats.vercel.app/api?username=azzubair01&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-    
+<br>
+![Azzubair's Computer Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azzubair01&theme=blue-green)
+
 -----
 <p align="center">
   · <a href="https://drive.google.com/file/d/1k9Z_Epxi5FNTr5-8TV4tXekAuiyIsuaL/view?usp=sharing">My Resume</a> · <br><br>
