@@ -4,19 +4,21 @@
 
 ## About Me 🚀
 🌱 I’m a Junior Data Scientist with a Masters Degree in Data Science & Analytics</br>
-👨‍💻 I am passionate with data & enjoy learning new things.
+👨‍💻 I am passionate with data-related tasks including data query, processing, prediction, visualisation, and webapp deployment.
 
 -----
 
 ## My Experiences 🙌
-🔮 [Solution Consultant (Data Science)](https://www.youtube.com/watch?v=GiHC_760Cis&ab_channel=MalaysiaDigitalEconomyCorporation) - (Jul'20-Present)
+🔮 [Solution Consultant (Data Science)](https://www.youtube.com/watch?v=GiHC_760Cis&ab_channel=MalaysiaDigitalEconomyCorporation) - (Jul'20-Sept'21)
+🧑‍💻 [Data Scientist II](https://www.youtube.com/watch?v=QsQuTn2DWfw&t=3s) - (Sept'21-Present)
 
 -----
 
 ## My Current Tools 🤖
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)<br>
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)<br>
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
