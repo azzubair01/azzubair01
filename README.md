@@ -9,7 +9,7 @@
 -----
 
 ## My Experiences 🙌
-🔮 [Solution Consultant (Data Science)](https://www.youtube.com/watch?v=GiHC_760Cis&ab_channel=MalaysiaDigitalEconomyCorporation) - (Jul'20-Sept'21)
+🔮 [Solution Consultant (Data Science)](https://www.youtube.com/watch?v=GiHC_760Cis&ab_channel=MalaysiaDigitalEconomyCorporation) - (Jul'20-Sept'21)</br>
 🧑‍💻 [Data Scientist II](https://www.youtube.com/watch?v=QsQuTn2DWfw&t=3s) - (Sept'21-Present)
 
 -----
